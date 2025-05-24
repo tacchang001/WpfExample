@@ -3,21 +3,10 @@ using Esri.ArcGISRuntime.Mapping;
 using Esri.ArcGISRuntime.Symbology;
 using Esri.ArcGISRuntime.UI;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Drawing;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using Esri.ArcGISRuntime;
-using Esri.ArcGISRuntime.Security;
 
 /*
  * https://github.com/Esri/arcgis-maps-sdk-dotnet-samples/blob/main/src/WPF/WPF.Viewer/Samples/GraphicsOverlay/AddGraphicsRenderer/AddGraphicsRenderer.xaml.cs
